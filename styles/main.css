@@ -1,0 +1,30 @@
+body {
+    margin: 0 auto;
+}
+
+nav {
+    padding: 30px;
+    background-color: #DD00A9;
+    color: white;
+    display: flex;
+}
+
+.logo {
+    padding: 10px;
+    font-size: 25px;
+    margin-right: auto;
+
+}
+
+.navigation {
+    display: flex;
+    list-style-type: none;
+    padding-right: 30px;
+}
+
+.nav-links {
+    text-decoration: none;
+    padding: 0px 10px;
+    color: white;
+    font-size: 18px;
+}
